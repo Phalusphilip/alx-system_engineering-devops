@@ -1,1 +1,1 @@
-script that prints the absolute path name of the current working directory
+This is a README file for 0x01. Shell, permissions. 
