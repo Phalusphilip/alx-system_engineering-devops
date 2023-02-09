@@ -1,1 +1,1 @@
-This is a README file for 0x01. Shell, permissions. 
+This is a README file for 0x00. Shell, basics. 
